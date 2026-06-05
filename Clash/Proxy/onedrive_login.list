@@ -1,0 +1,12 @@
+DOMAIN,login.live.com
+DOMAIN,login.microsoftonline.com
+DOMAIN,account.live.com
+DOMAIN,account.microsoft.com
+DOMAIN,auth.gfx.ms
+DOMAIN-SUFFIX,login.windows.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftauthimages.net
+DOMAIN-SUFFIX,msidentity.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftonline-p.com

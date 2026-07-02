@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,moomoo.com.sg
 DOMAIN-SUFFIX,moomoo.com.my
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
+DOMAIN-SUFFIX,api.moomoobull.com
 DOMAIN-SUFFIX,openapi.futunn.com
 DOMAIN-SUFFIX,openapi.moomoo.com
 
@@ -33,9 +34,18 @@ DOMAIN-SUFFIX,upfintech.com
 
 # Longbridge / LongPort
 DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.cn
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,open.longbridge.com
+DOMAIN-SUFFIX,openapi.longbridge.cn
+DOMAIN-SUFFIX,openapi-quote.longbridge.cn
+DOMAIN-SUFFIX,openapi-trade.longbridge.cn
+DOMAIN-SUFFIX,longportapp.cn
 DOMAIN-SUFFIX,longportapp.com
 DOMAIN-SUFFIX,lbkrs.com
 

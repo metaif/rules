@@ -1,0 +1,10 @@
+# giffgaff / O2 UK ePDG
+DOMAIN,epdg.epc.mnc010.mcc234.pub.3gppnetwork.org
+
+# Current O2 UK ePDG addresses
+IP-CIDR,87.194.0.0/19,no-resolve
+IP-CIDR,87.194.8.8/32,no-resolve
+IP-CIDR,87.194.9.8/32,no-resolve
+IP-CIDR,87.194.88.0/23,no-resolve
+IP-CIDR,87.194.88.8/32,no-resolve
+IP-CIDR,87.194.89.8/32,no-resolve

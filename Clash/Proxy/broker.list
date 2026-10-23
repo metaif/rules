@@ -1,4 +1,9 @@
 # Futu / Moomoo
+# Quote endpoints that connect by IP without hostname/SNI
+IP-CIDR,170.106.49.68/32,no-resolve
+IP-CIDR,170.106.49.111/32,no-resolve
+IP-CIDR,170.106.201.73/32,no-resolve
+IP-CIDR,170.106.201.247/32,no-resolve
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,futuau.com
